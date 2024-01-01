@@ -1,10 +1,10 @@
 ###
 <div align= "center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=random&height=180&text=Jihye&animation=twinkling&fontColor=ffffff&fontSize=50" />
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:5ecfa4,100:57b762&height=180&text=Jihye&animation=twinkling&fontColor=ffffff&fontSize=50" />
     </div>
     <div align= "center"> 
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">  </h2>  
-    <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;">  </div> 
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> ⭐ About me </h2>  
+    <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;"> 🐳 환경에 빠르게 적응하며 열심히 도전하는 초보개발자입니다. </div> 
     </div>
     <div align= "center">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
@@ -24,8 +24,8 @@
     </div>
     <div align= "center"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2> <div align= "center"> <img src="https://github-readme-stats.vercel.app/api?username=Jihye1101&bg_color=60,8299f8,3adfb6&title_color=000000&text_color=000000"
-          /> </div> 
-    </div>
+         /> 
+    
     
     
 
