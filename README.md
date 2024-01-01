@@ -20,6 +20,8 @@
     <div align= "center"> <a href=https://www.notion.so/cdc9f7741878414bb36d1e02ec679b5a> <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white&link=https://www.notion.so/cdc9f7741878414bb36d1e02ec679b5a"> </a>
          <a href=mailto:yang2jihye@gmail.com> <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:yang2jihye@gmail.com"> </a>
           </div>  <br> 
+    <div align= "center">  </div> 
+    
 
     
 
